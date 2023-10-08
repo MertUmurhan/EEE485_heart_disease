@@ -10,4 +10,6 @@ Methods used in this project are:
 *Decision Tree
 
 
-Not all methods are complete. You can detailed information on our report. The code provided in the "code.ipynb" is mostly the same as in the report's appendix. 
+Not all methods are complete. You can find detailed information on our report. 
+
+Note: You may find references to the "code in the appendix" in the report, you can find mostly the same code in "code.ipynb".
