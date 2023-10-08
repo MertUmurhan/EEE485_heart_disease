@@ -1,5 +1,5 @@
 # EEE485_heart_disease
-Heart disease detection using various supervised learning methods from scratch
+Heart disease detection using various supervised learning methods from scratch.
 
 Methods used in this project are:
 
